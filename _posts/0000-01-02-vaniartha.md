@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![Alt Text](https://tenor.com/view/what-why-gif-11044457.gif)
 Use the left arrow to go back!
